@@ -4,8 +4,8 @@
 
 :: Set here your path to 7-Zip, including 7z.exe
 SET zip="C:\Program Files\7-Zip\7z.exe"
-SET plugins="%UserProfile%\OpenplanetNext\Plugins"
-SET name="UnbindRetire"
+SET plugins="%UserProfile%\OpenplanetTurbo\Plugins"
+SET name="Only Music"
 
 IF EXIST %name%.op (
     del %name%.op
